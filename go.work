@@ -1,0 +1,7 @@
+go 1.18
+
+use (
+	./Start/Creational/Builder
+	./Start/Creational/Factory
+	./Start/Creational/Singleton
+)
