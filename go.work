@@ -1,7 +1,11 @@
 go 1.18
 
 use (
+	./Start/Behavioral/Iterator
+	./Start/Behavioral/Observer
 	./Start/Creational/Builder
 	./Start/Creational/Factory
 	./Start/Creational/Singleton
+	./Start/Structural/Adapter
+	./Start/Structural/Facade
 )
